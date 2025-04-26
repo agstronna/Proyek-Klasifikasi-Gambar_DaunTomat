@@ -56,7 +56,6 @@ Penyusunan model:
 
 Training dan validation accuracy serta loss divisualisasikan menggunakan Matplotlib untuk memantau performa model selama proses pelatihan.
 
-Contoh plot:
 - Grafik Akurasi Training vs Testing
 
   ![image](https://github.com/user-attachments/assets/b559274d-af1a-45be-9b6f-2a2ce00712ca)
